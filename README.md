@@ -10,4 +10,4 @@ WE WANT TO HAVE A BROWSER EXTENSION WHICH WILL:
 
 - On click on small pop-up will open another popup to show the actual mailer box
 
-Source - https://qwertycod.com/
+Read more at blog - https://qwertycod.com/email-sender-chrome-browser-extension/
